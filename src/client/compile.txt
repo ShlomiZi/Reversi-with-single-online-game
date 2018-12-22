@@ -1,0 +1,15 @@
+./ConfigurationFileHandler.o
+./Point.o
+./RegularRules.o
+./Rules.o
+./GameLauncher.o
+./ConsoleDisplay.o
+./main.o
+./ComputerPlayer.o
+./GameRunner.o
+./HumanPlayer.o
+./OnlineHumanPlayer.o
+./RemotePlayer.o
+./Display.o
+./Player.o
+./Board.o

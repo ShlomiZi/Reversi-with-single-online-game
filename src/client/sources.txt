@@ -1,0 +1,15 @@
+src/main.cpp
+src/HumanPlayer.cpp
+src/GameRunner.cpp
+src/ComputerPlayer.cpp
+src/ConfigurationFileHandler.cpp
+src/Rules.cpp
+src/RegularRules.cpp
+src/Display.cpp
+src/GameLauncher.cpp
+src/OnlineHumanPlayer.cpp
+src/ConsoleDisplay.cpp
+src/Player.cpp
+src/Point.cpp
+src/Board.cpp
+src/RemotePlayer.cpp
